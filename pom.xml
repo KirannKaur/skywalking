@@ -28,7 +28,7 @@
         <groupId>org.apache</groupId>
         <artifactId>apache</artifactId>
         <version>21</version>
-        <relativePath />
+        <relativePath/>
     </parent>
 
     <modules>
@@ -208,7 +208,7 @@
         <jmh.version>1.21</jmh.version>
         <gmaven-plugin.version>1.5</gmaven-plugin.version>
         <checkstyle.fails.on.error>true</checkstyle.fails.on.error>
-        <assertj-core.version>3.20.2</assertj-core.version>
+        <assertj-core.version>3.22.0</assertj-core.version>
 
     </properties>
 
